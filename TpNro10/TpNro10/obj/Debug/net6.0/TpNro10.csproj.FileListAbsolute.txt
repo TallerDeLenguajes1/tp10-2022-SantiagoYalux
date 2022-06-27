@@ -1,0 +1,15 @@
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\bin\Debug\net6.0\TpNro10.exe
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\bin\Debug\net6.0\TpNro10.deps.json
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\bin\Debug\net6.0\TpNro10.runtimeconfig.json
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\bin\Debug\net6.0\TpNro10.dll
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\bin\Debug\net6.0\TpNro10.pdb
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.csproj.AssemblyReference.cache
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.GeneratedMSBuildEditorConfig.editorconfig
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.AssemblyInfoInputs.cache
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.AssemblyInfo.cs
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.csproj.CoreCompileInputs.cache
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.dll
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\refint\TpNro10.dll
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.pdb
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\TpNro10.genruntimeconfig.cache
+C:\TallerLenguajesC#\tp10-2022-SantiagoYalux\TpNro10\TpNro10\obj\Debug\net6.0\ref\TpNro10.dll
